@@ -11,14 +11,7 @@
 
 <script>
 export default {
-  name: 'Chartist',
-  props: {},
-  data () {
-    return chartist: null
-  },
-  computed: {},
-  mounted () {},
-  methods: {},
+  name: 'Chartist'
 }  
 </script>
 
