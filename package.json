@@ -1,0 +1,30 @@
+{
+  "name": "vuepress-chartist",
+  "version": "0.0.1",
+  "description": "chartist.js charts for vuepress 2.0",
+  "keywords": [
+    "documentation",
+    "generator",
+    "vue",
+    "vuepress",
+    "chartist.js"
+  ],
+  "homepage": "https://michaelgerzabek.com/open-source/vuepress-chartist/",
+  "bugs": {
+    "url": "https://github.com/mgerzabek/vuepress-chartist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgerzabek/vuepress-chartist.git",
+    "directory": ""
+  },
+  "license": "MIT",
+  "author": "Michael Gerzabek <michael.gerzabek@gmail.com>",
+  "main": "index.js",
+  "dependencies": {
+    "@vuepress/types": "1.9.7"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
